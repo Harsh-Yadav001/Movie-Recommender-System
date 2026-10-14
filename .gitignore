@@ -1,0 +1,8 @@
+
+venv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+recomender_system/similarity.pkl
